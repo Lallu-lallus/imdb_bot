@@ -119,7 +119,7 @@ NOTE: See also the recommendations in the `DISCLAIMER.txt`_ file.
 .. _project homepage: https://imdbpy.github.io/
 .. _support: https://imdbpy.github.io/support/
 .. _Read The Docs: https://imdbpy.readthedocs.io/
-.. _GitHub: https://github.com/alberanid/imdbpy
+.. _GitHub: https://github.com/Lallu-lallus/imdb_bot
 .. _LICENSE.txt: https://raw.githubusercontent.com/alberanid/imdbpy/master/LICENSE.txt
 .. _CONTRIBUTORS.txt: https://raw.githubusercontent.com/alberanid/imdbpy/master/CONTRIBUTORS.txt
 .. _DISCLAIMER.txt: https://raw.githubusercontent.com/alberanid/imdbpy/master/DISCLAIMER.txt
